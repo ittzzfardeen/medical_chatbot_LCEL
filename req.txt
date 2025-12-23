@@ -1,0 +1,16 @@
+langchain_groq
+ipykernel
+dotenv
+langchain_community
+langchain_core
+langchain
+langchain_text_splitters
+langchain_huggingface
+pypdf
+langsmith
+langchain_astradb
+sentence-transformers
+astrapy
+pymilvus
+langchain_chroma
+langchain_pinecone
